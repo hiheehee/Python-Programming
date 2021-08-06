@@ -11,6 +11,9 @@ Python, Pandas, Numpy
 # 🐍 사용 기술 및 환경
 * Windows 10
 * jupyter notebook
+* python
+* numpy
+* pandas
 -------------------------------
 # 🐍 Python 목차
 * [01. 변수](https://github.com/hiheehee/Python_Programming/blob/main/%EB%B3%80%EC%88%98.ipynb)
